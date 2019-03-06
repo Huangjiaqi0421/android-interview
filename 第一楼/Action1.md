@@ -12,5 +12,6 @@
 
  - 如何检测ANR发生，ANR日志文件分析（死锁型，cpu耗尽型）
  答：说明场景--https://juejin.im/entry/597026806fb9a06bcb7fc660
+    根治--https://cloud.tencent.com/developer/article/1327772
 
  - AsyncTask原理，场景模拟（任务同步执行还是异步，业务改造/自我实现）
