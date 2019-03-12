@@ -17,4 +17,5 @@
 * 根治--https://cloud.tencent.com/developer/article/1327772
 * 易于理解--https://blog.csdn.net/lezhang123/article/details/72537647
 
- - AsyncTask原理，场景模拟（任务同步执行还是异步，业务改造/自我实现）
+ - AsyncTask原理，场景模拟（任务同步执行还是异步，业务改造/自我实现）--出题人：之声
+ - target 27 后台service适配 --出题人：道哥
