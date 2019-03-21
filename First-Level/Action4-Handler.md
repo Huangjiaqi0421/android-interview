@@ -8,6 +8,9 @@
 >  说下 handler 机制，Looper 通过 MessageQueue 取消息
 
 ### Question 2
+>  在一个Activity内，new出2个Handler的实例：A和B，现在A发送一个消息，问谁会收到，A？B？A和B？为什么
+
+### Question 3
 >  消息队列是先进先出模式，那我延迟发两个消息，第一个消息延迟2个小时，第二个消息延迟1个小时，那么第二个消息需要等3个小时才能取到吗？
 
 * 首先，消息队列不是先进先出模式，我们可以看源码可知，在Handler调用sendMessageDelayed函数后，函数顺序是：
