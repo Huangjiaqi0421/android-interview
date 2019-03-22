@@ -18,3 +18,7 @@
 ## 问题5：ava8对hashmap的优化hashmap和hashset区别，hash怎么散列
 
 ## 问题6：为什么`wait` , `notify`是在Object类中的
+
+## 问题7：简述类加载机制，触发类初始化的时机，被动引用的时机
+
+## 问题8：GC的机制
